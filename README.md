@@ -10,7 +10,7 @@ You can read the Ubicomp paper here: [pdf](https://pages.github.com/) and the [v
 #### software/    - The Arduino software used to run the robot 
 
 ## Manufacturing and Design 
-The linear motors were purchased. All the other pieces were custom designed in SolidWorks and printed on a Form2 Printer. The electronics were designed in Altium 
+The linear motors were purchased. All the other pieces were custom designed in SolidWorks and printed on a Form2 Printer. The electronics were designed in Altium and ordered from PCBCart
 
 ## Known issues 
 
